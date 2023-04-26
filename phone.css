@@ -1,0 +1,12 @@
+#home{
+
+}
+#services .box{
+
+}
+#services{
+    flex-direction: column;
+}
+#clientsSection{
+    overflow: hidden;
+}
